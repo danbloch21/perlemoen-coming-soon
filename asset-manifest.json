@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/perlemoen-coming-soon/static/css/main.63b6b277.css",
-    "main.js": "/perlemoen-coming-soon/static/js/main.e6c28252.js",
+    "main.css": "/perlemoen-coming-soon/static/css/main.ad9aefd0.css",
+    "main.js": "/perlemoen-coming-soon/static/js/main.396078d0.js",
     "static/js/787.dfa0578d.chunk.js": "/perlemoen-coming-soon/static/js/787.dfa0578d.chunk.js",
     "static/media/logo001.png": "/perlemoen-coming-soon/static/media/logo001.34193f4bbdf1517b1cd7.png",
     "index.html": "/perlemoen-coming-soon/index.html",
-    "main.63b6b277.css.map": "/perlemoen-coming-soon/static/css/main.63b6b277.css.map",
-    "main.e6c28252.js.map": "/perlemoen-coming-soon/static/js/main.e6c28252.js.map",
+    "main.ad9aefd0.css.map": "/perlemoen-coming-soon/static/css/main.ad9aefd0.css.map",
+    "main.396078d0.js.map": "/perlemoen-coming-soon/static/js/main.396078d0.js.map",
     "787.dfa0578d.chunk.js.map": "/perlemoen-coming-soon/static/js/787.dfa0578d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63b6b277.css",
-    "static/js/main.e6c28252.js"
+    "static/css/main.ad9aefd0.css",
+    "static/js/main.396078d0.js"
   ]
 }
