@@ -4,11 +4,18 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo001} className="App-logo" alt="logo" />
+    <div className="app">
+      <header className="app-header">
+        <img src={logo001} className="app-logo" alt="logo" />
         <h1>PERLEMOEN RESTAURANT</h1>
-        <h2 className="App-subheader">HATCHING SOON...</h2>
+        <h2 className="app-subheader">HATCHING SOON...</h2>
+        <h4 className="app-email-address">
+          <a href="mailto: bookings@perlemoenrestaurant.com">
+            BOOKINGS@PERLEMOENRESTAURANT.COM
+          </a>
+        </h4>
+
+        <h4 className="app-phone-number">+27 79 314 8658</h4>
       </header>
     </div>
   );
